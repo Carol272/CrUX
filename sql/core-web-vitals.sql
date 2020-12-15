@@ -24,4 +24,5 @@ FROM
 WHERE
   # metrics_summary is partitioned by date, YYYY-MM-01.
   date = '2020-03-01' AND
-  origin = 'https://web.dev'
+  origin = 'https://www.funtime.com.tw/domhotel/cingjing-bnb'
+
